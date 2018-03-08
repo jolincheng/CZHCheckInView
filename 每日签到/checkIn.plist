@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sign_log</key>
+	<array>
+		<dict>
+			<key>coin</key>
+			<string>2</string>
+		</dict>
+	</array>
+	<key>sign_count</key>
+	<string>1</string>
+</dict>
+</plist>
