@@ -423,3 +423,6 @@ typedef NS_ENUM(NSInteger, CZHDailyCheckInViewButtonType) {
 
 ```
 
+[博客地址](http://blog.csdn.net/hurryupcheng)
+[简书地址](https://www.jianshu.com/u/2add458bf239)
+
