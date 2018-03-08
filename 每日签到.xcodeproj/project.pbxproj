@@ -15,7 +15,6 @@
 		59404ABC204FF503003F97D1 /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404ABB204FF503003F97D1 /* ____Tests.m */; };
 		59404AC7204FF503003F97D1 /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404AC6204FF503003F97D1 /* ____UITests.m */; };
 		59404AD6204FF548003F97D1 /* CZHDailyCheckInView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404AD5204FF548003F97D1 /* CZHDailyCheckInView.m */; };
-		59404ADA204FF87F003F97D1 /* CZHTreasureBoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404AD9204FF87F003F97D1 /* CZHTreasureBoxView.m */; };
 		59404ADD204FF8E3003F97D1 /* UIView+CZHExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404ADC204FF8E3003F97D1 /* UIView+CZHExtension.m */; };
 		59404ADF2050D5C7003F97D1 /* checkIn.plist in Resources */ = {isa = PBXBuildFile; fileRef = 59404ADE2050D5C7003F97D1 /* checkIn.plist */; };
 		59404B022050EF7C003F97D1 /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 59404AF82050EF7C003F97D1 /* FMDatabase.m */; };
@@ -62,8 +61,6 @@
 		59404AD4204FF548003F97D1 /* CZHDailyCheckInView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZHDailyCheckInView.h; sourceTree = "<group>"; };
 		59404AD5204FF548003F97D1 /* CZHDailyCheckInView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZHDailyCheckInView.m; sourceTree = "<group>"; };
 		59404AD7204FF72D003F97D1 /* CZHDialyCheckInHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZHDialyCheckInHeader.h; sourceTree = "<group>"; };
-		59404AD8204FF87F003F97D1 /* CZHTreasureBoxView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CZHTreasureBoxView.h; sourceTree = "<group>"; };
-		59404AD9204FF87F003F97D1 /* CZHTreasureBoxView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CZHTreasureBoxView.m; sourceTree = "<group>"; };
 		59404ADB204FF8E3003F97D1 /* UIView+CZHExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CZHExtension.h"; sourceTree = "<group>"; };
 		59404ADC204FF8E3003F97D1 /* UIView+CZHExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CZHExtension.m"; sourceTree = "<group>"; };
 		59404ADE2050D5C7003F97D1 /* checkIn.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = checkIn.plist; sourceTree = "<group>"; };
@@ -140,8 +137,6 @@
 				59404AA6204FF503003F97D1 /* ViewController.m */,
 				59404AD4204FF548003F97D1 /* CZHDailyCheckInView.h */,
 				59404AD5204FF548003F97D1 /* CZHDailyCheckInView.m */,
-				59404AD8204FF87F003F97D1 /* CZHTreasureBoxView.h */,
-				59404AD9204FF87F003F97D1 /* CZHTreasureBoxView.m */,
 				59404B072050EFBF003F97D1 /* CZHLocalCacheTool.h */,
 				59404B082050EFBF003F97D1 /* CZHLocalCacheTool.m */,
 				59404AAB204FF503003F97D1 /* Assets.xcassets */,
@@ -325,7 +320,6 @@
 			files = (
 				59404AD6204FF548003F97D1 /* CZHDailyCheckInView.m in Sources */,
 				59404AA7204FF503003F97D1 /* ViewController.m in Sources */,
-				59404ADA204FF87F003F97D1 /* CZHTreasureBoxView.m in Sources */,
 				59404B022050EF7C003F97D1 /* FMDatabase.m in Sources */,
 				59404B092050EFBF003F97D1 /* CZHLocalCacheTool.m in Sources */,
 				59404B042050EF7C003F97D1 /* FMDatabasePool.m in Sources */,
