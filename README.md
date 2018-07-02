@@ -1,4 +1,9 @@
 # CZHCheckInView
+
+![公司的项目.png](https://upload-images.jianshu.io/upload_images/6709174-4b217cb5f07b1f6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+公司的项目，求支持，如果发现什么问题，可以留言反应，感激不尽
+
 每日签到功能，模拟一周连续签到成功循环，以及断开签到需要重新签到
 
 ![QQ2018.gif](http://upload-images.jianshu.io/upload_images/6709174-9b0d2ca69779bb98.gif?imageMogr2/auto-orient/strip)
